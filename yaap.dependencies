@@ -1,0 +1,9 @@
+[
+    { 
+        "remote":       "github",
+        "repository":   "josexda/android_device_motorola_sm6225-common",
+        "target_path":  "device/motorola/sm6225-common",
+        "revision":     "fourteen"
+    }
+]
+
